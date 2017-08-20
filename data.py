@@ -1,43 +1,43 @@
 data = {
-    'name': 'James Tiberius Kirk',
-    'nickname': 'Jim',
-    'image': 'kirk.jpg',
+    'name': 'Rattanarit Prasomsab',
+    'nickname': 'TIN TIN',
+    'image': 'tenor.gif',
     'greeting_msg': 'Hi, there!',
     'about': """
-        James Tiberius "Jim" Kirk was a male Human Starfleet officer in the 23rd century. He was arguably one of the most famous and highly decorated starship captains in the history of Starfleet. As the commanding officer of the Constitution-class starships USS Enterprise and USS Enterprise-A, Kirk served United Federation of Planets interests as an explorer, soldier, time-traveler, and diplomat.
+        Rattanarit Prasomsab "TIN"(not TEEN) was a male Human. He live in the Earth.
     """,
     'work': {
-        'position': 'Starfleet officer',
-        'at': 'Starfleet'
+        'position': 'Human',
+        'at': 'Human World'
     },
     'courses': [
         {
-            'name': 'How to survive in Kobayashi Maru mission',
-            'school': 'Starfleet Academy',
+            'name': 'How to survive in Thailand',
+            'school': 'PRAYUT Academy',
             'url': 'kobayashimaru'
         },
         {
             'name': 'Advanced Navigation',
-            'school': 'Starfleet Academy',
+            'school': 'NOOB School',
             'url': 'adv-nav'
         },
         {
             'name': 'Basic Warp Design',
-            'school': 'Starfleet Academy',
+            'school': 'LKH  Academy',
             'url': 'warp-design'
         },
         {
-            'name': 'Klingon Physiology',
-            'school': 'Valcan State Institute of Technology',
+            'name': 'ROV Physiology',
+            'school': 'ROV Institute of Technology',
             'url': 'klingon-phys'
         }
     ],
     'skills': [
         'Leadership',
-        'Leadership',
+        'EATING!!',
         'Human Language',
-        'Borg Language',
-        'Valcan Language',
+        'NOOB',
+        'GGEZ',
         'Sleeping'
     ]
 }
